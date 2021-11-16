@@ -1,2 +1,2 @@
 # Royal-Car-Rental
-Web Development Project
+Online taxi booking system. Web Development Project. Customers can book a taxi.
